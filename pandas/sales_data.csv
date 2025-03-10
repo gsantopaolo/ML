@@ -1,0 +1,12 @@
+Date,region,sales,revenue,product_category
+2023-01-01,North,100,200,Electronics
+2023-01-02,South,150,,Furniture
+2023-01-03,East,200,400,Electronics
+2023-01-04,West,130,,Clothing
+2023-01-05,North,170,340,Furniture
+
+2023-02-01,North,100,200,Electronics
+2023-02-02,South,150,,Furniture
+2023-02-03,East,200,400,Electronics
+2023-02-04,West,130,,Clothing
+2023-02-05,North,170,340,Furniture

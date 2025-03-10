@@ -1,0 +1,5 @@
+order_id,customer_id,product,price
+101,1,Smartphone,699
+102,2,Laptop,999
+103,1,Headphones,199
+104,3,Monitor,299

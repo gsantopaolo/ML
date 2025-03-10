@@ -1,0 +1,6 @@
+whisper
+sounddevice
+scipy
+openai
+python-dotenv
+pyperclip
